@@ -1,0 +1,308 @@
+{
+  "meta": {
+    "phaseText": "2017 preseason",
+    "name": "Harry Potter"
+  },
+  "teams": [
+    {
+      "tid": 0,
+      "cid": 1,
+      "did": 0,
+      "region": "Gryffindor",
+      "name": "Lions",
+      "abbrev": "GRY",
+      "imgURL": "http://i.imgur.com/z2xffBr.jpg?1",
+	  "pop": 6.0
+    },
+    {
+      "tid": 1,
+      "cid": 1,
+      "did": 0,
+      "region": "Slytherin",
+      "name": "Serpents",
+      "abbrev": "SLY",
+      "imgURL": "http://i.imgur.com/jAl7TK3.jpg?1",
+	  "pop": 8.0
+    },
+    {
+      "tid": 2,
+      "cid": 1,
+      "did": 0,
+      "region": "Ravenclaw",
+      "name": "Eagles",
+      "abbrev": "RAV",
+      "imgURL": "http://i.imgur.com/cy2B0o9.jpg?1",
+	  "pop": 4.0
+    },
+    {
+      "tid": 3,
+      "cid": 1,
+      "did": 0,
+      "region": "Hufflepuff",
+      "name": "Badgers",
+      "abbrev": "HUF",
+      "imgURL": "http://i.imgur.com/877q49u.jpg?1",
+	  "pop": 4.0
+    },
+    {
+      "tid": 4,
+      "cid": 1,
+      "did": 0,
+      "region": "Hogwarts",
+      "name": "Professors",
+      "abbrev": "HOG",
+      "imgURL": "http://i.imgur.com/dXelhpC.jpg?1",
+      "pop": 4.0
+	},
+    {
+      "tid": 5,
+      "cid": 1,
+      "did": 1,
+      "region": "Beauxbatons",
+      "name": "Veelas",
+      "abbrev": "BEA",
+      "imgURL": "http://i.imgur.com/M8TPCDs.jpg?1",
+	  "pop": 8.0
+    },
+    {
+      "tid": 6,
+      "cid": 1,
+      "did": 1,
+      "region": "Durmstrang",
+      "name": "Wizards",
+      "abbrev": "DUR",
+      "imgURL": "http://i.imgur.com/08WbWee.jpg?1",
+	  "pop": 8.0
+    },
+    {
+      "tid": 7,
+      "cid": 1,
+      "did": 1,
+      "region": "Ilvermorny",
+      "name": "Crows",
+      "abbrev": "ILV",
+      "imgURL": "http://i.imgur.com/PsgSVSH.jpg?1",
+      "pop": 2.0
+    },
+    {
+      "tid": 8,
+      "cid": 1,
+      "did": 1,
+      "region": "Castelobruxo",
+      "name": "Caipora",
+      "abbrev": "CAS",
+      "imgURL": "http://i.imgur.com/UOcsnh1.jpg?1",
+	  "pop": 2.0
+    },
+    {
+      "tid": 9,
+      "cid": 1,
+      "did": 1,
+      "region": "Koldovstoretz",
+      "name": "Flying Trees",
+      "abbrev": "KOL",
+      "imgURL": "http://i.imgur.com/Y0HlJdE.jpg?1",
+	  "pop": 2.0
+    },
+    {
+      "tid": 10,
+      "cid": 1,
+      "did": 2,
+      "region": "Mahoutokoro",
+      "name": "Petrels",
+      "abbrev": "MAH",
+      "imgURL": "http://i.imgur.com/wVoRYaY.jpg?1",
+	  "pop": 2.0
+    },
+    {
+      "tid": 11,
+      "cid": 1,
+      "did": 2,
+      "region": "Uagadou",
+      "name": "Mountains",
+      "abbrev": "UAG",
+      "imgURL": "http://i.imgur.com/TkzXSl8.jpg?1",
+	  "pop": 2.0
+    },
+    {
+      "tid": 12,
+      "cid": 1,
+      "did": 2,
+      "region": "Salem",
+      "name": "Witches",
+      "abbrev": "SAL",
+      "imgURL": "http://i.imgur.com/N3dJEUA.jpg?1",
+      "pop": 3.0
+    },
+    {
+      "tid": 13,
+      "cid": 1,
+      "did": 2,
+      "region": "Broom Flying",
+      "name": "Academy",
+      "abbrev": "BRO",
+      "imgURL": "http://i.imgur.com/2oscJeq.jpg?1",
+	  "pop": 2.0
+    },
+    {
+      "tid": 14,
+      "cid": 1,
+      "did": 2,
+      "region": "Euro-Glyph",
+      "name": "Languages",
+      "abbrev": "EUR",
+      "imgURL": "http://i.imgur.com/lWKEExv.jpg?1",
+	  "pop": 2.0
+    },
+    {
+      "tid": 15,
+      "cid": 0,
+      "did": 3,
+      "region": "Auror",
+      "name": "Elites",
+      "abbrev": "AUR",
+      "imgURL": "http://i.imgur.com/ox9hgnO.jpg?1",
+	  "pop": 3.0
+    },
+    {
+      "tid": 16,
+      "cid": 0,
+      "did": 3,
+      "region": "Mysteries",
+      "name": "Unspeakables",
+      "abbrev": "MYS",
+      "imgURL": "http://i.imgur.com/KqtEMAm.jpg?1",
+	  "pop": 3.0
+    },
+    {
+      "tid": 17,
+      "cid": 0,
+      "did": 3,
+      "region": "Muggle Artefacts",
+      "name": "Investigators",
+      "abbrev": "ART",
+      "imgURL": "http://i.imgur.com/UqQGeo9.jpg?1",
+	  "pop": 3.0
+    },
+    {
+      "tid": 18,
+      "cid": 0,
+      "did": 3,
+      "region": "Magical Creatures",
+      "name": "Caretakers",
+      "abbrev": "MAG",
+      "imgURL": "http://i.imgur.com/yOfSU4r.jpg?1",
+	  "pop": 3.0
+    },
+    {
+      "tid": 19,
+      "cid": 0,
+      "did": 3,
+      "region": "Wizengamot",
+      "name": "Judges",
+      "abbrev": "WIZ",
+      "imgURL": "http://i.imgur.com/ad5kh8O.jpg?1",
+	  "pop": 6.0
+    },
+    {
+      "tid": 20,
+      "cid": 0,
+      "did": 4,
+      "region": "Chudley",
+      "name": "Cannons",
+      "abbrev": "CHU",
+      "imgURL": "http://i.imgur.com/QhuZOm9.jpg?1",
+      "pop": 4.0
+    },
+    {
+      "tid": 21,
+      "cid": 0,
+      "did": 4,
+      "region": "Puddlemere",
+      "name": "United",
+      "abbrev": "PUD",
+      "imgURL": "http://i.imgur.com/EHvaMIz.jpg?1",
+	  "pop": 4.0
+    },
+    {
+      "tid": 22,
+      "cid": 0,
+      "did": 4,
+      "region": "Appleby",
+      "name": "Arrows",
+      "abbrev": "APP",
+      "imgURL": "http://i.imgur.com/L0hs5St.jpg?1",
+	  "pop": 4.0
+    },
+    {
+      "tid": 23,
+      "cid": 0,
+      "did": 4,
+      "region": "Ireland",
+      "name": "Shamrocks",
+      "abbrev": "IRE",
+      "imgURL": "http://i.imgur.com/6vYQaDe.jpg?1",
+	  "pop": 8.0
+    },
+    {
+      "tid": 24,
+      "cid": 0,
+      "did": 4,
+      "region": "Bulgarian",
+      "name": "Fire",
+      "abbrev": "BUL",
+      "imgURL": "http://i.imgur.com/2XL3N7Y.jpg?1",
+	  "pop": 8.0
+    },
+    {
+      "tid": 25,
+      "cid": 0,
+      "did": 5,
+      "region": "Goblin",
+      "name": "Bankers",
+      "abbrev": "GOB",
+      "imgURL": "http://i.imgur.com/QtETVHW.jpg?1",
+	  "pop": 10.0
+    },
+    {
+      "tid": 26,
+      "cid": 0,
+      "did": 5,
+      "region": "Centaur",
+      "name": "Arrows",
+      "abbrev": "CEN",
+      "imgURL": "http://i.imgur.com/0Z35tor.jpg?1",
+      "pop": 4.0
+    },
+    {
+      "tid": 27,
+      "cid": 0,
+      "did": 5,
+      "region": "House Elf",
+      "name": "Socks",
+      "abbrev": "ELF",
+      "imgURL": "http://i.imgur.com/oi2AEae.jpg?1",
+	  "pop": 1.5
+    },
+    {
+      "tid": 28,
+      "cid": 0,
+      "did": 5,
+      "region": "Troll",
+      "name": "Clubs",
+      "abbrev": "TRO",
+      "imgURL": "http://i.imgur.com/FWoZZcd.jpg?1",
+      "pop": 1.5
+    },
+    {
+      "tid": 29,
+      "cid": 0,
+      "did": 5,
+      "region": "Dragon",
+      "name": "Inferno",
+      "abbrev": "DRA",
+      "imgURL": "http://i.imgur.com/PluRKDY.jpg?1",
+	  "pop": 4.0
+    }
+  ]
+}
