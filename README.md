@@ -1,2 +1,59 @@
 # hpteams
 Harry Potter teams for Basketball GM
+
+Note: I haven't figured out to change the default Conference and Division names in Basketball GM, but as soon as I do, I will update this to reflect those names.
+
+    Scholastic Conference
+
+        Hogwarts Division
+        
+            Gryffindor Lions
+            Slytherin Serpents
+            Ravenclaw Eagles
+            Hufflepuff Badgers
+            Hogwarts Professors
+            
+        Eurasia-African Division
+            
+            Beauxbatons Veelas
+            Durmstrang Wizards
+            Koldovstoretz Flying Trees
+            Mahoutokoro Petrels
+            Uagadou Mountains
+            
+        Americas/Other Division
+        
+            Ilvermorny Crows
+            Castelobruxo Caipora
+            Salem Witches
+            Broom Flying Academy
+            Euro-Glyph Languages
+            
+    Wizards Conference
+
+        Ministry Division
+        
+            Auror Elites
+            Mysterious Unspeakables
+            Muggle Artefacts Investigators
+            Magical Creatures Caretakers
+            Wizengamot Judges
+
+        Quidditch Division
+            
+            Chudley Cannons
+            Puddlemere United
+            Appleby Arrows
+            Ireland Shamrocks
+            Bulgarian Fire
+            
+        Magical Creatures Division
+        
+            Goblin Bankers
+            Centaur Augurers
+            House Elf Socks
+            Troll Clubs
+            Dragon Inferno
+                    
+            
+
