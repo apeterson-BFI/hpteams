@@ -6,7 +6,7 @@
   "teams": [
     {
       "tid": 0,
-      "cid": 1,
+      "cid": 0,
       "did": 0,
       "region": "Gryffindor",
       "name": "Lions",
@@ -16,7 +16,7 @@
     },
     {
       "tid": 1,
-      "cid": 1,
+      "cid": 0,
       "did": 0,
       "region": "Slytherin",
       "name": "Serpents",
@@ -26,7 +26,7 @@
     },
     {
       "tid": 2,
-      "cid": 1,
+      "cid": 0,
       "did": 0,
       "region": "Ravenclaw",
       "name": "Eagles",
@@ -36,7 +36,7 @@
     },
     {
       "tid": 3,
-      "cid": 1,
+      "cid": 0,
       "did": 0,
       "region": "Hufflepuff",
       "name": "Badgers",
@@ -46,7 +46,7 @@
     },
     {
       "tid": 4,
-      "cid": 1,
+      "cid": 0,
       "did": 0,
       "region": "Hogwarts",
       "name": "Professors",
@@ -56,7 +56,7 @@
 	},
     {
       "tid": 5,
-      "cid": 1,
+      "cid": 0,
       "did": 1,
       "region": "Beauxbatons",
       "name": "Veelas",
@@ -66,7 +66,7 @@
     },
     {
       "tid": 6,
-      "cid": 1,
+      "cid": 0,
       "did": 1,
       "region": "Durmstrang",
       "name": "Wizards",
@@ -76,7 +76,7 @@
     },
     {
       "tid": 7,
-      "cid": 1,
+      "cid": 0,
       "did": 2,
       "region": "Ilvermorny",
       "name": "Crows",
@@ -86,7 +86,7 @@
     },
     {
       "tid": 8,
-      "cid": 1,
+      "cid": 0,
       "did": 2,
       "region": "Castelobruxo",
       "name": "Caipora",
@@ -96,7 +96,7 @@
     },
     {
       "tid": 9,
-      "cid": 1,
+      "cid": 0,
       "did": 1,
       "region": "Koldovstoretz",
       "name": "Flying Trees",
@@ -106,7 +106,7 @@
     },
     {
       "tid": 10,
-      "cid": 1,
+      "cid": 0,
       "did": 1,
       "region": "Mahoutokoro",
       "name": "Petrels",
@@ -116,7 +116,7 @@
     },
     {
       "tid": 11,
-      "cid": 1,
+      "cid": 0,
       "did": 1,
       "region": "Uagadou",
       "name": "Mountains",
@@ -126,7 +126,7 @@
     },
     {
       "tid": 12,
-      "cid": 1,
+      "cid": 0,
       "did": 2,
       "region": "Salem",
       "name": "Witches",
@@ -136,7 +136,7 @@
     },
     {
       "tid": 13,
-      "cid": 1,
+      "cid": 0,
       "did": 2,
       "region": "Broom Flying",
       "name": "Academy",
@@ -146,7 +146,7 @@
     },
     {
       "tid": 14,
-      "cid": 1,
+      "cid": 0,
       "did": 2,
       "region": "Euro-Glyph",
       "name": "Languages",
@@ -156,7 +156,7 @@
     },
     {
       "tid": 15,
-      "cid": 0,
+      "cid": 1,
       "did": 3,
       "region": "Auror",
       "name": "Elites",
@@ -166,7 +166,7 @@
     },
     {
       "tid": 16,
-      "cid": 0,
+      "cid": 1,
       "did": 3,
       "region": "Mysterious",
       "name": "Unspeakables",
@@ -176,7 +176,7 @@
     },
     {
       "tid": 17,
-      "cid": 0,
+      "cid": 1,
       "did": 3,
       "region": "Muggle Artefact",
       "name": "Investigators",
@@ -186,7 +186,7 @@
     },
     {
       "tid": 18,
-      "cid": 0,
+      "cid": 1,
       "did": 3,
       "region": "Magical Creatures",
       "name": "Caretakers",
@@ -196,7 +196,7 @@
     },
     {
       "tid": 19,
-      "cid": 0,
+      "cid": 1,
       "did": 3,
       "region": "Wizengamot",
       "name": "Judges",
@@ -206,7 +206,7 @@
     },
     {
       "tid": 20,
-      "cid": 0,
+      "cid": 1,
       "did": 4,
       "region": "Chudley",
       "name": "Cannons",
@@ -216,7 +216,7 @@
     },
     {
       "tid": 21,
-      "cid": 0,
+      "cid": 1,
       "did": 4,
       "region": "Puddlemere",
       "name": "United",
@@ -226,7 +226,7 @@
     },
     {
       "tid": 22,
-      "cid": 0,
+      "cid": 1,
       "did": 4,
       "region": "Appleby",
       "name": "Arrows",
@@ -236,7 +236,7 @@
     },
     {
       "tid": 23,
-      "cid": 0,
+      "cid": 1,
       "did": 4,
       "region": "Ireland",
       "name": "Shamrocks",
@@ -246,7 +246,7 @@
     },
     {
       "tid": 24,
-      "cid": 0,
+      "cid": 1,
       "did": 4,
       "region": "Bulgarian",
       "name": "Fire",
@@ -256,7 +256,7 @@
     },
     {
       "tid": 25,
-      "cid": 0,
+      "cid": 1,
       "did": 5,
       "region": "Goblin",
       "name": "Bankers",
@@ -266,7 +266,7 @@
     },
     {
       "tid": 26,
-      "cid": 0,
+      "cid": 1,
       "did": 5,
       "region": "Centaur",
       "name": "Augurers",
@@ -276,7 +276,7 @@
     },
     {
       "tid": 27,
-      "cid": 0,
+      "cid": 1,
       "did": 5,
       "region": "House Elf",
       "name": "Socks",
@@ -286,7 +286,7 @@
     },
     {
       "tid": 28,
-      "cid": 0,
+      "cid": 1,
       "did": 5,
       "region": "Troll",
       "name": "Clubs",
@@ -296,7 +296,7 @@
     },
     {
       "tid": 29,
-      "cid": 0,
+      "cid": 1,
       "did": 5,
       "region": "Dragon",
       "name": "Inferno",
