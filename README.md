@@ -3,7 +3,7 @@ Harry Potter teams for Basketball GM
 
 Plus a Teams + Rosters json file which contains rosters for:
     
-    Gryffindor Lions (14 players)
+    Gryffindor Lions (15 players)
     Slytherin Serpents (10 players)
     
 
