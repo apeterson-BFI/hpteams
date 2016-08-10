@@ -5,6 +5,7 @@ Plus a Teams + Rosters json file which contains rosters for:
     
     Gryffindor Lions (15 players)
     Slytherin Serpents (10 players)
+    Ravenclaw Eagles (10 players)
     
 
 
