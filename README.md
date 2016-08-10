@@ -1,6 +1,12 @@
 # hpteams
 Harry Potter teams for Basketball GM
 
+Plus a Teams + Rosters json file which contains rosters for:
+    Gryffindor Lions (14 players)
+    Slytherin Serpents (10 players)
+    
+
+
 Note: I haven't figured out to change the default Conference and Division names in Basketball GM, but as soon as I do, I will update this to reflect those names.
 
     Scholastic Conference
