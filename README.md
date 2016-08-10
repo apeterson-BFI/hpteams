@@ -7,6 +7,7 @@ Plus a Teams + Rosters json file which contains rosters for:
     Slytherin Serpents (10 players)
     Ravenclaw Eagles (10 players)
     Hufflepuff Badgers (6 players + 4 random free agents)
+    Hogwarts Professors (10 players)
 
 
 Note: I haven't figured out to change the default Conference and Division names in Basketball GM, but as soon as I do, I will update this to reflect those names.
