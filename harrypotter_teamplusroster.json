@@ -12589,98 +12589,6 @@
       ]
     },
     {
-      "tid": 4,
-      "statsTids": [
-        1,
-        4
-      ],
-      "rosterOrder": 1,
-      "ratings": [
-        {
-          "hgt": 86,
-          "stre": 82,
-          "spd": 47,
-          "jmp": 36,
-          "endu": 64,
-          "ins": 97,
-          "dnk": 91,
-          "ft": 67,
-          "fg": 37,
-          "tp": 63,
-          "blk": 96,
-          "stl": 72,
-          "drb": 35,
-          "pss": 30,
-          "reb": 89,
-          "season": 2016,
-          "ovr": 67,
-          "pot": 68,
-          "fuzz": -2.467689901693129,
-          "skills": [
-            "Di",
-            "Po",
-            "R"
-          ],
-          "pos": "FC"
-        }
-      ],
-      "weight": 276,
-      "hgt": 84,
-      "born": {
-        "year": 1988,
-        "loc": "USA"
-      },
-      "firstName": "K.J.",
-      "lastName": "Motz",
-      "college": "",
-      "imgURL": "",
-      "awards": [],
-      "freeAgentMood": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "yearsFreeAgent": 0,
-      "retiredYear": null,
-      "draft": {
-        "round": 0,
-        "pick": 0,
-        "tid": -1,
-        "originalTid": -1,
-        "year": 2006,
-        "teamName": null,
-        "teamRegion": null,
-        "pot": 75,
-        "ovr": 42,
-        "skills": []
-      },
       "face": {
         "head": {
           "id": 0
@@ -12734,9 +12642,105 @@
         "fatness": 0.9394476307688724,
         "color": "#bb876f"
       },
+      "ratings": [
+        {
+          "hgt": 86,
+          "stre": 82,
+          "spd": 47,
+          "jmp": 36,
+          "endu": 64,
+          "ins": 97,
+          "dnk": 91,
+          "ft": 67,
+          "fg": 37,
+          "tp": 63,
+          "blk": 96,
+          "stl": 72,
+          "drb": 35,
+          "pss": 30,
+          "reb": 89,
+          "season": 2016,
+          "ovr": 67,
+          "pot": 68,
+          "fuzz": -2.467689901693129,
+          "skills": [
+            "Di",
+            "Po",
+            "R"
+          ],
+          "pos": "FC"
+        }
+      ],
+      "born": {
+        "year": 1988,
+        "loc": "USA"
+      },
+      "contract": {
+        "amount": 24450,
+        "exp": 2016
+      },
       "injury": {
         "type": "Healthy",
         "gamesRemaining": 0
+      },
+      "tid": -1,
+      "statsTids": [
+        1,
+        4
+      ],
+      "rosterOrder": 1,
+      "weight": 276,
+      "hgt": 84,
+      "firstName": "K.J.",
+      "lastName": "Motz",
+      "college": "",
+      "imgURL": "",
+      "awards": [],
+      "freeAgentMood": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "yearsFreeAgent": 0,
+      "retiredYear": null,
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2006,
+        "teamName": null,
+        "teamRegion": null,
+        "pot": 75,
+        "ovr": 42,
+        "skills": []
       },
       "ptModifier": 1,
       "hof": false,
@@ -12753,10 +12757,6 @@
           "amount": 24450
         }
       ],
-      "contract": {
-        "amount": 24450,
-        "exp": 2016
-      },
       "pid": 68,
       "stats": [
         {
@@ -19827,9 +19827,10 @@
       ]
     },
     {
-      "tid": 4,
+      "tid": 23,
       "statsTids": [
-        4
+        4,
+        23
       ],
       "rosterOrder": 6,
       "ratings": [
@@ -20040,15 +20041,51 @@
           "ewa": 0,
           "yearsWithTeam": 1,
           "psid": 57
+        },
+        {
+          "pid": 99,
+          "season": 2016,
+          "tid": 23,
+          "playoffs": false,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "per": 0,
+          "ewa": 0,
+          "yearsWithTeam": 1,
+          "psid": 525
         }
       ]
     },
     {
-      "tid": 4,
+      "tid": -1,
       "statsTids": [
         4
       ],
-      "rosterOrder": 9,
+      "rosterOrder": 5,
       "ratings": [
         {
           "hgt": 51,
@@ -20086,36 +20123,36 @@
       "imgURL": "",
       "awards": [],
       "freeAgentMood": [
+        0.1424570704971122,
+        0,
+        1.0298953645271431,
+        2.0428682405013747,
+        0.8839962229051015,
         0,
         0,
+        1.6662843914764194,
+        0.7104552762798557,
+        0.09712927217716649,
+        1.0920614388253114,
+        0.06302744334993948,
         0,
+        1.646215142308199,
+        0.26425227248037414,
         0,
+        1.270819861213918,
+        1.154032689845526,
+        1.6271918024941867,
         0,
+        1.1215948578061639,
+        0.13863262690508393,
+        1.310472332383227,
+        1.0071267394894368,
+        0.5824879171447197,
+        0.8675045925657692,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        1.5109678664769106,
+        0.1143455889379173,
+        1.2341700141969723
       ],
       "yearsFreeAgent": 0,
       "retiredYear": null,
@@ -20254,95 +20291,6 @@
       ]
     },
     {
-      "tid": 4,
-      "statsTids": [
-        4
-      ],
-      "rosterOrder": 8,
-      "ratings": [
-        {
-          "hgt": 79,
-          "stre": 69,
-          "spd": 18,
-          "jmp": 28,
-          "endu": 39,
-          "ins": 73,
-          "dnk": 86,
-          "ft": 29,
-          "fg": 43,
-          "tp": 28,
-          "blk": 88,
-          "stl": 36,
-          "drb": 13,
-          "pss": 16,
-          "reb": 81,
-          "season": 2016,
-          "ovr": 50,
-          "pot": 50,
-          "fuzz": 1.1380526314847277,
-          "skills": [
-            "R"
-          ],
-          "pos": "FC"
-        }
-      ],
-      "weight": 244,
-      "hgt": 83,
-      "born": {
-        "year": 1987,
-        "loc": "USA"
-      },
-      "firstName": "B.J.",
-      "lastName": "Carr",
-      "college": "",
-      "imgURL": "",
-      "awards": [],
-      "freeAgentMood": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "yearsFreeAgent": 0,
-      "retiredYear": null,
-      "draft": {
-        "round": 0,
-        "pick": 0,
-        "tid": -1,
-        "originalTid": -1,
-        "year": 2005,
-        "teamName": null,
-        "teamRegion": null,
-        "pot": 50,
-        "ovr": 46,
-        "skills": []
-      },
       "face": {
         "head": {
           "id": 0
@@ -20396,9 +20344,102 @@
         "fatness": 0.6674159354353824,
         "color": "#ad6453"
       },
+      "ratings": [
+        {
+          "hgt": 79,
+          "stre": 69,
+          "spd": 18,
+          "jmp": 28,
+          "endu": 39,
+          "ins": 73,
+          "dnk": 86,
+          "ft": 29,
+          "fg": 43,
+          "tp": 28,
+          "blk": 88,
+          "stl": 36,
+          "drb": 13,
+          "pss": 16,
+          "reb": 81,
+          "season": 2016,
+          "ovr": 50,
+          "pot": 50,
+          "fuzz": 1.1380526314847277,
+          "skills": [
+            "R"
+          ],
+          "pos": "FC"
+        }
+      ],
+      "born": {
+        "year": 1987,
+        "loc": "USA"
+      },
+      "contract": {
+        "amount": 3700,
+        "exp": 2017
+      },
       "injury": {
         "type": "Healthy",
         "gamesRemaining": 0
+      },
+      "tid": -1,
+      "statsTids": [
+        4
+      ],
+      "rosterOrder": 8,
+      "weight": 244,
+      "hgt": 83,
+      "firstName": "B.J.",
+      "lastName": "Carr",
+      "college": "",
+      "imgURL": "",
+      "awards": [],
+      "freeAgentMood": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "yearsFreeAgent": 0,
+      "retiredYear": null,
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2005,
+        "teamName": null,
+        "teamRegion": null,
+        "pot": 50,
+        "ovr": 46,
+        "skills": []
       },
       "ptModifier": 1,
       "hof": false,
@@ -20419,10 +20460,6 @@
           "amount": 3700
         }
       ],
-      "contract": {
-        "amount": 3700,
-        "exp": 2017
-      },
       "pid": 101,
       "stats": [
         {
@@ -20464,9 +20501,10 @@
       ]
     },
     {
-      "tid": 4,
+      "tid": 23,
       "statsTids": [
-        4
+        4,
+        23
       ],
       "rosterOrder": 5,
       "ratings": [
@@ -20668,11 +20706,47 @@
           "ewa": 0,
           "yearsWithTeam": 1,
           "psid": 60
+        },
+        {
+          "pid": 102,
+          "season": 2016,
+          "tid": 23,
+          "playoffs": false,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "per": 0,
+          "ewa": 0,
+          "yearsWithTeam": 1,
+          "psid": 526
         }
       ]
     },
     {
-      "tid": 4,
+      "tid": -1,
       "statsTids": [
         4
       ],
@@ -20876,7 +20950,7 @@
       ]
     },
     {
-      "tid": 4,
+      "tid": -1,
       "statsTids": [
         4
       ],
@@ -20918,36 +20992,36 @@
       "imgURL": "",
       "awards": [],
       "freeAgentMood": [
+        0.8262696524639115,
+        0.18893259808391724,
+        1.5208727010062373,
+        0.9840064211798031,
+        0.9360693956641131,
+        0.3623225835029561,
+        1.804505768324732,
+        1.5285761095210113,
+        1.5440342987511788,
+        1.9006489534357138,
+        1.413198906740478,
+        0.015715992133304713,
+        1.0141388542347551,
+        0,
+        1.339344141521368,
         0,
         0,
+        1.1731040783196864,
+        0.5383440406346196,
         0,
+        1.2610596020272944,
         0,
+        0.7607085639453698,
+        0.13662942220325203,
+        1.7749166011401418,
         0,
+        0.7537983057674842,
+        0.3347288869962526,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        0.6429451691104596
       ],
       "yearsFreeAgent": 0,
       "retiredYear": null,
@@ -21039,7 +21113,7 @@
       ],
       "contract": {
         "amount": 750,
-        "exp": 2016
+        "exp": 2017
       },
       "pid": 104,
       "stats": [
@@ -21082,11 +21156,11 @@
       ]
     },
     {
-      "tid": 4,
+      "tid": -1,
       "statsTids": [
         4
       ],
-      "rosterOrder": 10,
+      "rosterOrder": 6,
       "ratings": [
         {
           "hgt": 50,
@@ -21124,35 +21198,35 @@
       "imgURL": "",
       "awards": [],
       "freeAgentMood": [
+        0.5289602705108414,
+        0,
+        0.9222372557187901,
+        0.5908721418942287,
         0,
         0,
+        1.2138805058153732,
+        0.2637357547853345,
+        0.9765956747519947,
+        0.8771119418363795,
+        2.0627844103182937,
+        1.7627670033250047,
+        0.8659528950552957,
+        0,
+        0.3804768418107876,
+        0,
+        1.065555367186033,
+        1.7249935798692912,
+        0.5985875345909573,
+        1.6835513492478165,
+        0.035064151912012176,
         0,
         0,
+        0.6619508034019527,
+        1.0653372893426103,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
+        0.6382740804649295,
+        1.783664746770282,
+        0.0019293361802242281,
         0
       ],
       "yearsFreeAgent": 0,
@@ -21290,7 +21364,7 @@
       ]
     },
     {
-      "tid": 4,
+      "tid": -1,
       "statsTids": [
         4
       ],
@@ -21332,36 +21406,36 @@
       "imgURL": "",
       "awards": [],
       "freeAgentMood": [
+        1.2192301153916407,
+        0.2324068286050982,
+        1.6438942735489077,
+        0.9725174069609689,
+        1.4697458177375886,
+        1.154232138163198,
         0,
+        1.578834244267758,
+        2.161665678007544,
+        1.0702405335779035,
+        0.1270506436957184,
+        1.4962226315376315,
         0,
+        0.497469390534512,
+        1.0100869662462328,
+        0.5956822345171777,
+        0.19474702073524797,
+        1.5706901517251486,
+        1.6041514263810135,
+        0.3285737768489663,
+        0.9191840884181006,
+        0.7329419995588555,
+        0.8344175985255236,
+        0.6558968021134192,
+        2.0302317287934137,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        1.4043977825425662,
+        1.512578702792618,
+        0.9720119805796743,
+        1.0259301306239297
       ],
       "yearsFreeAgent": 0,
       "retiredYear": null,
@@ -21498,11 +21572,11 @@
       ]
     },
     {
-      "tid": 4,
+      "tid": -1,
       "statsTids": [
         4
       ],
-      "rosterOrder": 7,
+      "rosterOrder": 5,
       "ratings": [
         {
           "hgt": 46,
@@ -21542,36 +21616,36 @@
       "imgURL": "",
       "awards": [],
       "freeAgentMood": [
+        1.6375340652312693,
+        0.9913263519776863,
+        2.041645996602341,
+        1.9427372739013453,
+        0.8720343376922481,
+        0.529464684385234,
+        1.1910328799523013,
         0,
+        1.392392923725034,
+        1.173589118205181,
+        0.10640396791989049,
         0,
+        1.8383939217514036,
+        1.9525513383017317,
+        0.3930644036672671,
+        1.2930253078620684,
+        1.5212772168111557,
         0,
+        0.227712155019356,
+        0.6081098962470415,
         0,
+        1.0582201887637248,
+        1.1239822867221119,
+        1.6611864412102946,
+        1.3935053379314923,
+        1.014459924447627,
+        1.8961140525760003,
+        0.2805959150294094,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        1.2370363083390048
       ],
       "yearsFreeAgent": 0,
       "retiredYear": null,
@@ -21665,7 +21739,7 @@
       ],
       "contract": {
         "amount": 750,
-        "exp": 2017
+        "exp": 2018
       },
       "pid": 107,
       "stats": [
@@ -21708,11 +21782,12 @@
       ]
     },
     {
-      "tid": 4,
+      "tid": 23,
       "statsTids": [
-        4
+        4,
+        23
       ],
-      "rosterOrder": 4,
+      "rosterOrder": 7,
       "ratings": [
         {
           "hgt": 48,
@@ -21912,100 +21987,46 @@
           "ewa": 0,
           "yearsWithTeam": 1,
           "psid": 66
+        },
+        {
+          "pid": 108,
+          "season": 2016,
+          "tid": 23,
+          "playoffs": false,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "per": 0,
+          "ewa": 0,
+          "yearsWithTeam": 1,
+          "psid": 527
         }
       ]
     },
     {
-      "tid": 4,
-      "statsTids": [
-        4
-      ],
-      "rosterOrder": 0,
-      "ratings": [
-        {
-          "hgt": 0,
-          "stre": 38,
-          "spd": 90,
-          "jmp": 66,
-          "endu": 74,
-          "ins": 76,
-          "dnk": 76,
-          "ft": 69,
-          "fg": 89,
-          "tp": 100,
-          "blk": 77,
-          "stl": 92,
-          "drb": 89,
-          "pss": 71,
-          "reb": 67,
-          "season": 2016,
-          "ovr": 68,
-          "pot": 68,
-          "fuzz": -3.1429510060154016,
-          "skills": [
-            "3",
-            "B"
-          ],
-          "pos": "G"
-        }
-      ],
-      "weight": 163,
-      "hgt": 72,
-      "born": {
-        "year": 1988,
-        "loc": "USA"
-      },
-      "firstName": "John",
-      "lastName": "Clark",
-      "college": "",
-      "imgURL": "",
-      "awards": [],
-      "freeAgentMood": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "yearsFreeAgent": 0,
-      "retiredYear": null,
-      "draft": {
-        "round": 0,
-        "pick": 0,
-        "tid": -1,
-        "originalTid": -1,
-        "year": 2006,
-        "teamName": null,
-        "teamRegion": null,
-        "pot": 65,
-        "ovr": 35,
-        "skills": []
-      },
       "face": {
         "head": {
           "id": 0
@@ -22059,9 +22080,103 @@
         "fatness": 0.5409048646259165,
         "color": "#74453d"
       },
+      "ratings": [
+        {
+          "hgt": 0,
+          "stre": 38,
+          "spd": 90,
+          "jmp": 66,
+          "endu": 74,
+          "ins": 76,
+          "dnk": 76,
+          "ft": 69,
+          "fg": 89,
+          "tp": 100,
+          "blk": 77,
+          "stl": 92,
+          "drb": 89,
+          "pss": 71,
+          "reb": 67,
+          "season": 2016,
+          "ovr": 68,
+          "pot": 68,
+          "fuzz": -3.1429510060154016,
+          "skills": [
+            "3",
+            "B"
+          ],
+          "pos": "G"
+        }
+      ],
+      "born": {
+        "year": 1988,
+        "loc": "USA"
+      },
+      "contract": {
+        "amount": 23200,
+        "exp": 2020
+      },
       "injury": {
         "type": "Healthy",
         "gamesRemaining": 0
+      },
+      "tid": -1,
+      "statsTids": [
+        4
+      ],
+      "rosterOrder": 0,
+      "weight": 163,
+      "hgt": 72,
+      "firstName": "John",
+      "lastName": "Clark",
+      "college": "",
+      "imgURL": "",
+      "awards": [],
+      "freeAgentMood": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "yearsFreeAgent": 0,
+      "retiredYear": null,
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2006,
+        "teamName": null,
+        "teamRegion": null,
+        "pot": 65,
+        "ovr": 35,
+        "skills": []
       },
       "ptModifier": 1,
       "hof": false,
@@ -22094,10 +22209,6 @@
           "amount": 23200
         }
       ],
-      "contract": {
-        "amount": 23200,
-        "exp": 2020
-      },
       "pid": 109,
       "stats": [
         {
@@ -22421,11 +22532,12 @@
       ]
     },
     {
-      "tid": 4,
+      "tid": 23,
       "statsTids": [
-        4
+        4,
+        23
       ],
-      "rosterOrder": 2,
+      "rosterOrder": 3,
       "ratings": [
         {
           "hgt": 72,
@@ -22632,15 +22744,52 @@
           "ewa": 0,
           "yearsWithTeam": 1,
           "psid": 69
+        },
+        {
+          "pid": 111,
+          "season": 2016,
+          "tid": 23,
+          "playoffs": false,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "per": 0,
+          "ewa": 0,
+          "yearsWithTeam": 1,
+          "psid": 528
         }
       ]
     },
     {
-      "tid": 4,
+      "tid": 23,
       "statsTids": [
-        4
+        4,
+        23
       ],
-      "rosterOrder": 3,
+      "rosterOrder": 4,
       "ratings": [
         {
           "hgt": 41,
@@ -22844,6 +22993,42 @@
           "ewa": 0,
           "yearsWithTeam": 1,
           "psid": 70
+        },
+        {
+          "pid": 112,
+          "season": 2016,
+          "tid": 23,
+          "playoffs": false,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "per": 0,
+          "ewa": 0,
+          "yearsWithTeam": 1,
+          "psid": 529
         }
       ]
     },
@@ -76163,7 +76348,7 @@
       "statsTids": [
         23
       ],
-      "rosterOrder": 10,
+      "rosterOrder": 13,
       "ratings": [
         {
           "hgt": 3,
@@ -76371,7 +76556,7 @@
       "statsTids": [
         23
       ],
-      "rosterOrder": 4,
+      "rosterOrder": 14,
       "ratings": [
         {
           "hgt": 52,
@@ -76785,7 +76970,7 @@
       "statsTids": [
         23
       ],
-      "rosterOrder": 12,
+      "rosterOrder": 16,
       "ratings": [
         {
           "hgt": 0,
@@ -76989,7 +77174,7 @@
       "statsTids": [
         23
       ],
-      "rosterOrder": 6,
+      "rosterOrder": 9,
       "ratings": [
         {
           "hgt": 8,
@@ -77197,7 +77382,7 @@
       "statsTids": [
         23
       ],
-      "rosterOrder": 7,
+      "rosterOrder": 10,
       "ratings": [
         {
           "hgt": 32,
@@ -77405,7 +77590,7 @@
       "statsTids": [
         23
       ],
-      "rosterOrder": 13,
+      "rosterOrder": 17,
       "ratings": [
         {
           "hgt": 51,
@@ -77609,7 +77794,7 @@
       "statsTids": [
         23
       ],
-      "rosterOrder": 3,
+      "rosterOrder": 8,
       "ratings": [
         {
           "hgt": 5,
@@ -78038,7 +78223,7 @@
       "statsTids": [
         23
       ],
-      "rosterOrder": 8,
+      "rosterOrder": 11,
       "ratings": [
         {
           "hgt": 11,
@@ -78246,7 +78431,7 @@
       "statsTids": [
         23
       ],
-      "rosterOrder": 9,
+      "rosterOrder": 12,
       "ratings": [
         {
           "hgt": 28,
@@ -78672,93 +78857,6 @@
       ]
     },
     {
-      "tid": 23,
-      "statsTids": [
-        23
-      ],
-      "rosterOrder": 5,
-      "ratings": [
-        {
-          "hgt": 26,
-          "stre": 44,
-          "spd": 51,
-          "jmp": 52,
-          "endu": 53,
-          "ins": 38,
-          "dnk": 40,
-          "ft": 71,
-          "fg": 55,
-          "tp": 76,
-          "blk": 54,
-          "stl": 68,
-          "drb": 58,
-          "pss": 75,
-          "reb": 47,
-          "season": 2016,
-          "ovr": 51,
-          "pot": 51,
-          "fuzz": -0.9733396657975533,
-          "skills": [],
-          "pos": "SG"
-        }
-      ],
-      "weight": 194,
-      "hgt": 77,
-      "born": {
-        "year": 1987,
-        "loc": "USA"
-      },
-      "firstName": "Dedrick",
-      "lastName": "Hall",
-      "college": "",
-      "imgURL": "",
-      "awards": [],
-      "freeAgentMood": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "yearsFreeAgent": 0,
-      "retiredYear": null,
-      "draft": {
-        "round": 0,
-        "pick": 0,
-        "tid": -1,
-        "originalTid": -1,
-        "year": 2005,
-        "teamName": null,
-        "teamRegion": null,
-        "pot": 55,
-        "ovr": 40,
-        "skills": []
-      },
       "face": {
         "head": {
           "id": 0
@@ -78812,9 +78910,101 @@
         "fatness": 0.7597209997222918,
         "color": "#ce967d"
       },
+      "ratings": [
+        {
+          "hgt": 26,
+          "stre": 44,
+          "spd": 51,
+          "jmp": 52,
+          "endu": 53,
+          "ins": 38,
+          "dnk": 40,
+          "ft": 71,
+          "fg": 55,
+          "tp": 76,
+          "blk": 54,
+          "stl": 68,
+          "drb": 58,
+          "pss": 75,
+          "reb": 47,
+          "season": 2016,
+          "ovr": 51,
+          "pot": 51,
+          "fuzz": -0.9733396657975533,
+          "skills": [],
+          "pos": "SG"
+        }
+      ],
+      "born": {
+        "year": 1987,
+        "loc": "USA"
+      },
+      "contract": {
+        "amount": 3300,
+        "exp": 2018
+      },
       "injury": {
         "type": "Healthy",
         "gamesRemaining": 0
+      },
+      "tid": -1,
+      "statsTids": [
+        23,
+        4
+      ],
+      "rosterOrder": 5,
+      "weight": 194,
+      "hgt": 77,
+      "firstName": "Dedrick",
+      "lastName": "Hall",
+      "college": "",
+      "imgURL": "",
+      "awards": [],
+      "freeAgentMood": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "yearsFreeAgent": 0,
+      "retiredYear": null,
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2005,
+        "teamName": null,
+        "teamRegion": null,
+        "pot": 55,
+        "ovr": 40,
+        "skills": []
       },
       "ptModifier": 1,
       "hof": false,
@@ -78839,10 +79029,6 @@
           "amount": 3300
         }
       ],
-      "contract": {
-        "amount": 3300,
-        "exp": 2018
-      },
       "pid": 377,
       "stats": [
         {
@@ -78880,6 +79066,42 @@
           "ewa": 0,
           "yearsWithTeam": 1,
           "psid": 335
+        },
+        {
+          "pid": 377,
+          "season": 2016,
+          "tid": 4,
+          "playoffs": false,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "per": 0,
+          "ewa": 0,
+          "yearsWithTeam": 1,
+          "psid": 530
         }
       ]
     },
@@ -78888,7 +79110,7 @@
       "statsTids": [
         23
       ],
-      "rosterOrder": 11,
+      "rosterOrder": 15,
       "ratings": [
         {
           "hgt": 28,
@@ -138679,6 +138901,2042 @@
           "psid": 520
         }
       ]
+    },
+    {
+      "face": {
+        "head": {
+          "id": 0
+        },
+        "eyebrows": [
+          {
+            "id": 0,
+            "lr": "l",
+            "cx": 135,
+            "cy": 250
+          },
+          {
+            "id": 0,
+            "lr": "r",
+            "cx": 265,
+            "cy": 250
+          }
+        ],
+        "eyes": [
+          {
+            "id": 2,
+            "lr": "l",
+            "cx": 135,
+            "cy": 280,
+            "angle": 25.9
+          },
+          {
+            "id": 2,
+            "lr": "r",
+            "cx": 265,
+            "cy": 280,
+            "angle": 25.9
+          }
+        ],
+        "nose": {
+          "id": 0,
+          "lr": "l",
+          "cx": 200,
+          "cy": 330,
+          "size": 0.08102303238036335,
+          "flip": true
+        },
+        "mouth": {
+          "id": 3,
+          "cx": 200,
+          "cy": 400
+        },
+        "hair": {
+          "id": 2
+        },
+        "fatness": 0.95,
+        "color": "#ce967d"
+      },
+      "ratings": [
+        {
+          "hgt": 100,
+          "stre": 100,
+          "spd": 70,
+          "jmp": 100,
+          "endu": 80,
+          "ins": 100,
+          "dnk": 100,
+          "ft": 100,
+          "fg": 100,
+          "tp": 60,
+          "blk": 100,
+          "stl": 90,
+          "drb": 90,
+          "pss": 90,
+          "reb": 100,
+          "season": 2016,
+          "ovr": 90,
+          "pot": 90,
+          "fuzz": 0.8759987023137139,
+          "skills": [
+            "A",
+            "B",
+            "Di",
+            "Dp",
+            "Po",
+            "Ps",
+            "R"
+          ],
+          "pos": "FC"
+        }
+      ],
+      "born": {
+        "year": 1981,
+        "loc": "USA"
+      },
+      "contract": {
+        "amount": 30000,
+        "exp": 2018
+      },
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "tid": 4,
+      "statsTids": [
+        4
+      ],
+      "rosterOrder": 0,
+      "weight": 240,
+      "hgt": 84,
+      "firstName": "Albus",
+      "lastName": "Dumbledore",
+      "college": "",
+      "imgURL": "",
+      "awards": [],
+      "freeAgentMood": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "yearsFreeAgent": 0,
+      "retiredYear": null,
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2015,
+        "teamName": null,
+        "teamRegion": null,
+        "pot": 50,
+        "ovr": 68,
+        "skills": [
+          "3"
+        ]
+      },
+      "ptModifier": 1,
+      "hof": false,
+      "watch": false,
+      "gamesUntilTradable": 0,
+      "value": 62.99999999999999,
+      "valueNoPot": 90,
+      "valueFuzz": 63.699999999999996,
+      "valueNoPotFuzz": 91,
+      "valueWithContract": 62.99999999999999,
+      "salaries": [],
+      "pid": 714,
+      "stats": [
+        {
+          "pid": 714,
+          "season": 2016,
+          "tid": 4,
+          "playoffs": false,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "per": 0,
+          "ewa": 0,
+          "yearsWithTeam": 1,
+          "psid": 531
+        }
+      ]
+    },
+    {
+      "face": {
+        "head": {
+          "id": 0
+        },
+        "eyebrows": [
+          {
+            "id": 0,
+            "lr": "l",
+            "cx": 135,
+            "cy": 250
+          },
+          {
+            "id": 0,
+            "lr": "r",
+            "cx": 265,
+            "cy": 250
+          }
+        ],
+        "eyes": [
+          {
+            "id": 3,
+            "lr": "l",
+            "cx": 135,
+            "cy": 280,
+            "angle": -5.4
+          },
+          {
+            "id": 3,
+            "lr": "r",
+            "cx": 265,
+            "cy": 280,
+            "angle": -5.4
+          }
+        ],
+        "nose": {
+          "id": 2,
+          "lr": "l",
+          "cx": 200,
+          "cy": 330,
+          "size": 0.28751453905668756,
+          "flip": false
+        },
+        "mouth": {
+          "id": 3,
+          "cx": 200,
+          "cy": 400
+        },
+        "hair": {
+          "id": 1
+        },
+        "fatness": 0.89,
+        "color": "#ddb7a0"
+      },
+      "ratings": [
+        {
+          "hgt": 55,
+          "stre": 40,
+          "spd": 100,
+          "jmp": 60,
+          "endu": 75,
+          "ins": 50,
+          "dnk": 80,
+          "ft": 100,
+          "fg": 100,
+          "tp": 100,
+          "blk": 50,
+          "stl": 100,
+          "drb": 95,
+          "pss": 95,
+          "reb": 60,
+          "season": 2016,
+          "ovr": 77,
+          "pot": 80,
+          "fuzz": 2.191885126455805,
+          "skills": [
+            "3",
+            "B",
+            "Dp",
+            "Ps"
+          ],
+          "pos": "SG"
+        }
+      ],
+      "born": {
+        "year": 1988,
+        "loc": "USA"
+      },
+      "contract": {
+        "amount": 25000,
+        "exp": 2018
+      },
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "tid": 4,
+      "statsTids": [
+        4
+      ],
+      "rosterOrder": 2,
+      "weight": 205,
+      "hgt": 75,
+      "firstName": "Minerva",
+      "lastName": "Mcgonagall",
+      "college": "",
+      "imgURL": "",
+      "awards": [],
+      "freeAgentMood": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "yearsFreeAgent": 0,
+      "retiredYear": null,
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2015,
+        "teamName": null,
+        "teamRegion": null,
+        "pot": 50,
+        "ovr": 66,
+        "skills": [
+          "3",
+          "A",
+          "Dp",
+          "Po",
+          "R"
+        ]
+      },
+      "ptModifier": 1,
+      "hof": false,
+      "watch": false,
+      "gamesUntilTradable": 0,
+      "value": 77,
+      "valueNoPot": 77,
+      "valueFuzz": 79,
+      "valueNoPotFuzz": 79,
+      "valueWithContract": 77,
+      "salaries": [],
+      "pid": 715,
+      "stats": [
+        {
+          "pid": 715,
+          "season": 2016,
+          "tid": 4,
+          "playoffs": false,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "per": 0,
+          "ewa": 0,
+          "yearsWithTeam": 1,
+          "psid": 532
+        }
+      ]
+    },
+    {
+      "face": {
+        "head": {
+          "id": 0
+        },
+        "eyebrows": [
+          {
+            "id": 0,
+            "lr": "l",
+            "cx": 135,
+            "cy": 250
+          },
+          {
+            "id": 0,
+            "lr": "r",
+            "cx": 265,
+            "cy": 250
+          }
+        ],
+        "eyes": [
+          {
+            "id": 1,
+            "lr": "l",
+            "cx": 135,
+            "cy": 280,
+            "angle": 18.1
+          },
+          {
+            "id": 1,
+            "lr": "r",
+            "cx": 265,
+            "cy": 280,
+            "angle": 18.1
+          }
+        ],
+        "nose": {
+          "id": 2,
+          "lr": "l",
+          "cx": 200,
+          "cy": 330,
+          "size": 0.5599344565135733,
+          "flip": true
+        },
+        "mouth": {
+          "id": 2,
+          "cx": 200,
+          "cy": 400
+        },
+        "hair": {
+          "id": 2
+        },
+        "fatness": 0.23,
+        "color": "#f2d6cb"
+      },
+      "ratings": [
+        {
+          "hgt": 75,
+          "stre": 75,
+          "spd": 75,
+          "jmp": 100,
+          "endu": 100,
+          "ins": 70,
+          "dnk": 100,
+          "ft": 80,
+          "fg": 80,
+          "tp": 60,
+          "blk": 100,
+          "stl": 100,
+          "drb": 60,
+          "pss": 60,
+          "reb": 100,
+          "season": 2016,
+          "ovr": 81,
+          "pot": 84,
+          "fuzz": 0.09041950741596949,
+          "skills": [
+            "A",
+            "Di",
+            "Dp",
+            "R"
+          ],
+          "pos": "F"
+        }
+      ],
+      "born": {
+        "year": 1990,
+        "loc": "USA"
+      },
+      "contract": {
+        "amount": 20000,
+        "exp": 2018
+      },
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "tid": 4,
+      "statsTids": [
+        4
+      ],
+      "rosterOrder": 1,
+      "weight": 220,
+      "hgt": 80,
+      "firstName": "Severus",
+      "lastName": "Snape",
+      "college": "",
+      "imgURL": "",
+      "awards": [],
+      "freeAgentMood": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "yearsFreeAgent": 0,
+      "retiredYear": null,
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2015,
+        "teamName": null,
+        "teamRegion": null,
+        "pot": 50,
+        "ovr": 58,
+        "skills": [
+          "3"
+        ]
+      },
+      "ptModifier": 1,
+      "hof": false,
+      "watch": false,
+      "gamesUntilTradable": 0,
+      "value": 81,
+      "valueNoPot": 81,
+      "valueFuzz": 81,
+      "valueNoPotFuzz": 81,
+      "valueWithContract": 81,
+      "salaries": [],
+      "pid": 716,
+      "stats": [
+        {
+          "pid": 716,
+          "season": 2016,
+          "tid": 4,
+          "playoffs": false,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "per": 0,
+          "ewa": 0,
+          "yearsWithTeam": 1,
+          "psid": 533
+        }
+      ]
+    },
+    {
+      "face": {
+        "head": {
+          "id": 0
+        },
+        "eyebrows": [
+          {
+            "id": 0,
+            "lr": "l",
+            "cx": 135,
+            "cy": 250
+          },
+          {
+            "id": 0,
+            "lr": "r",
+            "cx": 265,
+            "cy": 250
+          }
+        ],
+        "eyes": [
+          {
+            "id": 2,
+            "lr": "l",
+            "cx": 135,
+            "cy": 280,
+            "angle": -6
+          },
+          {
+            "id": 2,
+            "lr": "r",
+            "cx": 265,
+            "cy": 280,
+            "angle": -6
+          }
+        ],
+        "nose": {
+          "id": 0,
+          "lr": "l",
+          "cx": 200,
+          "cy": 330,
+          "size": 0.025055120733928016,
+          "flip": false
+        },
+        "mouth": {
+          "id": 4,
+          "cx": 200,
+          "cy": 400
+        },
+        "hair": {
+          "id": 1
+        },
+        "fatness": 0.87,
+        "color": "#ce967d"
+      },
+      "ratings": [
+        {
+          "hgt": 10,
+          "stre": 20,
+          "spd": 50,
+          "jmp": 50,
+          "endu": 90,
+          "ins": 20,
+          "dnk": 40,
+          "ft": 100,
+          "fg": 100,
+          "tp": 100,
+          "blk": 20,
+          "stl": 100,
+          "drb": 100,
+          "pss": 100,
+          "reb": 40,
+          "season": 2016,
+          "ovr": 57,
+          "pot": 60,
+          "fuzz": -1.197100909703849,
+          "skills": [
+            "3",
+            "Ps"
+          ],
+          "pos": "PG"
+        }
+      ],
+      "born": {
+        "year": 1985,
+        "loc": "USA"
+      },
+      "contract": {
+        "amount": 15000,
+        "exp": 2018
+      },
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "tid": 4,
+      "statsTids": [
+        4
+      ],
+      "rosterOrder": 4,
+      "weight": 120,
+      "hgt": 60,
+      "firstName": "Filius",
+      "lastName": "Flitwick",
+      "college": "",
+      "imgURL": "",
+      "awards": [],
+      "freeAgentMood": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "yearsFreeAgent": 0,
+      "retiredYear": null,
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2015,
+        "teamName": null,
+        "teamRegion": null,
+        "pot": 50,
+        "ovr": 63,
+        "skills": [
+          "3"
+        ]
+      },
+      "ptModifier": 1,
+      "hof": false,
+      "watch": false,
+      "gamesUntilTradable": 0,
+      "value": 51.300000000000004,
+      "valueNoPot": 57.00000000000001,
+      "valueFuzz": 50.4,
+      "valueNoPotFuzz": 56,
+      "valueWithContract": 51.300000000000004,
+      "salaries": [],
+      "pid": 717,
+      "stats": [
+        {
+          "pid": 717,
+          "season": 2016,
+          "tid": 4,
+          "playoffs": false,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "per": 0,
+          "ewa": 0,
+          "yearsWithTeam": 1,
+          "psid": 534
+        }
+      ]
+    },
+    {
+      "face": {
+        "head": {
+          "id": 0
+        },
+        "eyebrows": [
+          {
+            "id": 0,
+            "lr": "l",
+            "cx": 135,
+            "cy": 250
+          },
+          {
+            "id": 0,
+            "lr": "r",
+            "cx": 265,
+            "cy": 250
+          }
+        ],
+        "eyes": [
+          {
+            "id": 3,
+            "lr": "l",
+            "cx": 135,
+            "cy": 280,
+            "angle": 0.5
+          },
+          {
+            "id": 3,
+            "lr": "r",
+            "cx": 265,
+            "cy": 280,
+            "angle": 0.5
+          }
+        ],
+        "nose": {
+          "id": 2,
+          "lr": "l",
+          "cx": 200,
+          "cy": 330,
+          "size": 0.5178415289095508,
+          "flip": true
+        },
+        "mouth": {
+          "id": 0,
+          "cx": 200,
+          "cy": 400
+        },
+        "hair": {
+          "id": 4
+        },
+        "fatness": 0.17,
+        "color": "#5c3937"
+      },
+      "ratings": [
+        {
+          "hgt": 40,
+          "stre": 40,
+          "spd": 50,
+          "jmp": 40,
+          "endu": 40,
+          "ins": 30,
+          "dnk": 30,
+          "ft": 60,
+          "fg": 60,
+          "tp": 65,
+          "blk": 30,
+          "stl": 60,
+          "drb": 60,
+          "pss": 60,
+          "reb": 30,
+          "season": 2016,
+          "ovr": 44,
+          "pot": 50,
+          "fuzz": -2.0188762169575405,
+          "skills": [],
+          "pos": "G"
+        }
+      ],
+      "born": {
+        "year": 1989,
+        "loc": "USA"
+      },
+      "contract": {
+        "amount": 5000,
+        "exp": 2018
+      },
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "tid": 4,
+      "statsTids": [
+        4
+      ],
+      "rosterOrder": 7,
+      "weight": 190,
+      "hgt": 72,
+      "firstName": "Sybill",
+      "lastName": "Trelawney",
+      "college": "",
+      "imgURL": "",
+      "awards": [],
+      "freeAgentMood": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "yearsFreeAgent": 0,
+      "retiredYear": null,
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2015,
+        "teamName": null,
+        "teamRegion": null,
+        "pot": 50,
+        "ovr": 61,
+        "skills": [
+          "3"
+        ]
+      },
+      "ptModifier": 1,
+      "hof": false,
+      "watch": false,
+      "gamesUntilTradable": 0,
+      "value": 44,
+      "valueNoPot": 44,
+      "valueFuzz": 42,
+      "valueNoPotFuzz": 42,
+      "valueWithContract": 44,
+      "salaries": [],
+      "pid": 718,
+      "stats": [
+        {
+          "pid": 718,
+          "season": 2016,
+          "tid": 4,
+          "playoffs": false,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "per": 0,
+          "ewa": 0,
+          "yearsWithTeam": 1,
+          "psid": 535
+        }
+      ]
+    },
+    {
+      "face": {
+        "head": {
+          "id": 0
+        },
+        "eyebrows": [
+          {
+            "id": 0,
+            "lr": "l",
+            "cx": 135,
+            "cy": 250
+          },
+          {
+            "id": 0,
+            "lr": "r",
+            "cx": 265,
+            "cy": 250
+          }
+        ],
+        "eyes": [
+          {
+            "id": 3,
+            "lr": "l",
+            "cx": 135,
+            "cy": 280,
+            "angle": 24.6
+          },
+          {
+            "id": 3,
+            "lr": "r",
+            "cx": 265,
+            "cy": 280,
+            "angle": 24.6
+          }
+        ],
+        "nose": {
+          "id": 0,
+          "lr": "l",
+          "cx": 200,
+          "cy": 330,
+          "size": 0.11586062463254088,
+          "flip": false
+        },
+        "mouth": {
+          "id": 0,
+          "cx": 200,
+          "cy": 400
+        },
+        "hair": {
+          "id": 3
+        },
+        "fatness": 0.23,
+        "color": "#74453d"
+      },
+      "ratings": [
+        {
+          "hgt": 40,
+          "stre": 20,
+          "spd": 70,
+          "jmp": 50,
+          "endu": 70,
+          "ins": 40,
+          "dnk": 60,
+          "ft": 80,
+          "fg": 80,
+          "tp": 80,
+          "blk": 40,
+          "stl": 80,
+          "drb": 40,
+          "pss": 100,
+          "reb": 70,
+          "season": 2016,
+          "ovr": 62,
+          "pot": 65,
+          "fuzz": 3.0649993410405356,
+          "skills": [
+            "3",
+            "Ps"
+          ],
+          "pos": "G"
+        }
+      ],
+      "born": {
+        "year": 1988,
+        "loc": "USA"
+      },
+      "contract": {
+        "amount": 8000,
+        "exp": 2018
+      },
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "tid": 4,
+      "statsTids": [
+        4
+      ],
+      "rosterOrder": 3,
+      "weight": 185,
+      "hgt": 70,
+      "firstName": "Pomoma",
+      "lastName": "Sprout",
+      "college": "",
+      "imgURL": "",
+      "awards": [],
+      "freeAgentMood": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "yearsFreeAgent": 0,
+      "retiredYear": null,
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2015,
+        "teamName": null,
+        "teamRegion": null,
+        "pot": 50,
+        "ovr": 61,
+        "skills": [
+          "3"
+        ]
+      },
+      "ptModifier": 1,
+      "hof": false,
+      "watch": false,
+      "gamesUntilTradable": 0,
+      "value": 62,
+      "valueNoPot": 62,
+      "valueFuzz": 65,
+      "valueNoPotFuzz": 65,
+      "valueWithContract": 62,
+      "salaries": [],
+      "pid": 719,
+      "stats": [
+        {
+          "pid": 719,
+          "season": 2016,
+          "tid": 4,
+          "playoffs": false,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "per": 0,
+          "ewa": 0,
+          "yearsWithTeam": 1,
+          "psid": 536
+        }
+      ]
+    },
+    {
+      "face": {
+        "head": {
+          "id": 0
+        },
+        "eyebrows": [
+          {
+            "id": 0,
+            "lr": "l",
+            "cx": 135,
+            "cy": 250
+          },
+          {
+            "id": 0,
+            "lr": "r",
+            "cx": 265,
+            "cy": 250
+          }
+        ],
+        "eyes": [
+          {
+            "id": 3,
+            "lr": "l",
+            "cx": 135,
+            "cy": 280,
+            "angle": -11.1
+          },
+          {
+            "id": 3,
+            "lr": "r",
+            "cx": 265,
+            "cy": 280,
+            "angle": -11.1
+          }
+        ],
+        "nose": {
+          "id": 0,
+          "lr": "l",
+          "cx": 200,
+          "cy": 330,
+          "size": 0.04056880985343003,
+          "flip": false
+        },
+        "mouth": {
+          "id": 4,
+          "cx": 200,
+          "cy": 400
+        },
+        "hair": {
+          "id": 0
+        },
+        "fatness": 0.29,
+        "color": "#ddb7a0"
+      },
+      "ratings": [
+        {
+          "hgt": 50,
+          "stre": 50,
+          "spd": 90,
+          "jmp": 50,
+          "endu": 70,
+          "ins": 70,
+          "dnk": 90,
+          "ft": 50,
+          "fg": 50,
+          "tp": 20,
+          "blk": 50,
+          "stl": 50,
+          "drb": 30,
+          "pss": 30,
+          "reb": 90,
+          "season": 2016,
+          "ovr": 61,
+          "pot": 70,
+          "fuzz": 1.2838136729541914,
+          "skills": [],
+          "pos": "G"
+        }
+      ],
+      "born": {
+        "year": 1990,
+        "loc": "USA"
+      },
+      "contract": {
+        "amount": 6000,
+        "exp": 2018
+      },
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "tid": 4,
+      "statsTids": [
+        4
+      ],
+      "rosterOrder": 6,
+      "weight": 220,
+      "hgt": 72,
+      "firstName": "Septima",
+      "lastName": "Vector",
+      "college": "",
+      "imgURL": "",
+      "awards": [],
+      "freeAgentMood": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "yearsFreeAgent": 0,
+      "retiredYear": null,
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2015,
+        "teamName": null,
+        "teamRegion": null,
+        "pot": 50,
+        "ovr": 60,
+        "skills": [
+          "3"
+        ]
+      },
+      "ptModifier": 1,
+      "hof": false,
+      "watch": false,
+      "gamesUntilTradable": 0,
+      "value": 61,
+      "valueNoPot": 61,
+      "valueFuzz": 62,
+      "valueNoPotFuzz": 62,
+      "valueWithContract": 61,
+      "salaries": [],
+      "pid": 720,
+      "stats": [
+        {
+          "pid": 720,
+          "season": 2016,
+          "tid": 4,
+          "playoffs": false,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "per": 0,
+          "ewa": 0,
+          "yearsWithTeam": 1,
+          "psid": 537
+        }
+      ]
+    },
+    {
+      "face": {
+        "head": {
+          "id": 0
+        },
+        "eyebrows": [
+          {
+            "id": 0,
+            "lr": "l",
+            "cx": 135,
+            "cy": 250
+          },
+          {
+            "id": 0,
+            "lr": "r",
+            "cx": 265,
+            "cy": 250
+          }
+        ],
+        "eyes": [
+          {
+            "id": 1,
+            "lr": "l",
+            "cx": 135,
+            "cy": 280,
+            "angle": 17.9
+          },
+          {
+            "id": 1,
+            "lr": "r",
+            "cx": 265,
+            "cy": 280,
+            "angle": 17.9
+          }
+        ],
+        "nose": {
+          "id": 0,
+          "lr": "l",
+          "cx": 200,
+          "cy": 330,
+          "size": 0.8552847558942762,
+          "flip": true
+        },
+        "mouth": {
+          "id": 3,
+          "cx": 200,
+          "cy": 400
+        },
+        "hair": {
+          "id": 2
+        },
+        "fatness": 0.72,
+        "color": "#74453d"
+      },
+      "ratings": [
+        {
+          "hgt": 100,
+          "stre": 100,
+          "spd": 40,
+          "jmp": 70,
+          "endu": 70,
+          "ins": 80,
+          "dnk": 50,
+          "ft": 50,
+          "fg": 50,
+          "tp": 20,
+          "blk": 80,
+          "stl": 60,
+          "drb": 30,
+          "pss": 30,
+          "reb": 80,
+          "season": 2016,
+          "ovr": 60,
+          "pot": 70,
+          "fuzz": -0.8415594936748603,
+          "skills": [
+            "Di",
+            "Po",
+            "R"
+          ],
+          "pos": "C"
+        }
+      ],
+      "born": {
+        "year": 1991,
+        "loc": "USA"
+      },
+      "contract": {
+        "amount": 4000,
+        "exp": 2018
+      },
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "tid": 4,
+      "statsTids": [
+        4
+      ],
+      "rosterOrder": 5,
+      "weight": 320,
+      "hgt": 90,
+      "firstName": "Rubeus",
+      "lastName": "Hagrid",
+      "college": "",
+      "imgURL": "",
+      "awards": [],
+      "freeAgentMood": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "yearsFreeAgent": 0,
+      "retiredYear": null,
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2015,
+        "teamName": null,
+        "teamRegion": null,
+        "pot": 50,
+        "ovr": 54,
+        "skills": []
+      },
+      "ptModifier": 1,
+      "hof": false,
+      "watch": false,
+      "gamesUntilTradable": 0,
+      "value": 60.5,
+      "valueNoPot": 60,
+      "valueFuzz": 59.5,
+      "valueNoPotFuzz": 59,
+      "valueWithContract": 60.5,
+      "salaries": [],
+      "pid": 721,
+      "stats": [
+        {
+          "pid": 721,
+          "season": 2016,
+          "tid": 4,
+          "playoffs": false,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "per": 0,
+          "ewa": 0,
+          "yearsWithTeam": 1,
+          "psid": 538
+        }
+      ]
+    },
+    {
+      "face": {
+        "head": {
+          "id": 0
+        },
+        "eyebrows": [
+          {
+            "id": 0,
+            "lr": "l",
+            "cx": 135,
+            "cy": 250
+          },
+          {
+            "id": 0,
+            "lr": "r",
+            "cx": 265,
+            "cy": 250
+          }
+        ],
+        "eyes": [
+          {
+            "id": 2,
+            "lr": "l",
+            "cx": 135,
+            "cy": 280,
+            "angle": 7.8
+          },
+          {
+            "id": 2,
+            "lr": "r",
+            "cx": 265,
+            "cy": 280,
+            "angle": 7.8
+          }
+        ],
+        "nose": {
+          "id": 1,
+          "lr": "l",
+          "cx": 200,
+          "cy": 330,
+          "size": 0.360313607769047,
+          "flip": false
+        },
+        "mouth": {
+          "id": 0,
+          "cx": 200,
+          "cy": 400
+        },
+        "hair": {
+          "id": 2
+        },
+        "fatness": 0.98,
+        "color": "#ce967d"
+      },
+      "ratings": [
+        {
+          "hgt": 40,
+          "stre": 40,
+          "spd": 60,
+          "jmp": 40,
+          "endu": 60,
+          "ins": 40,
+          "dnk": 40,
+          "ft": 60,
+          "fg": 60,
+          "tp": 60,
+          "blk": 40,
+          "stl": 60,
+          "drb": 40,
+          "pss": 60,
+          "reb": 40,
+          "season": 2016,
+          "ovr": 49,
+          "pot": 65,
+          "fuzz": 1.5687061738614654,
+          "skills": [],
+          "pos": "G"
+        }
+      ],
+      "born": {
+        "year": 1988,
+        "loc": "USA"
+      },
+      "contract": {
+        "amount": 2000,
+        "exp": 2018
+      },
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "tid": 4,
+      "statsTids": [
+        4
+      ],
+      "rosterOrder": 666,
+      "weight": 195,
+      "hgt": 69,
+      "firstName": "Aurora",
+      "lastName": "Sinistra",
+      "college": "",
+      "imgURL": "",
+      "awards": [],
+      "freeAgentMood": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "yearsFreeAgent": 0,
+      "retiredYear": null,
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2015,
+        "teamName": null,
+        "teamRegion": null,
+        "pot": 50,
+        "ovr": 56,
+        "skills": []
+      },
+      "ptModifier": 1,
+      "hof": false,
+      "watch": false,
+      "gamesUntilTradable": 0,
+      "value": 49,
+      "valueNoPot": 49,
+      "valueFuzz": 51,
+      "valueNoPotFuzz": 51,
+      "valueWithContract": 49,
+      "salaries": [],
+      "pid": 722,
+      "stats": [
+        {
+          "pid": 722,
+          "season": 2016,
+          "tid": 4,
+          "playoffs": false,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "per": 0,
+          "ewa": 0,
+          "yearsWithTeam": 1,
+          "psid": 539
+        }
+      ]
+    },
+    {
+      "face": {
+        "head": {
+          "id": 0
+        },
+        "eyebrows": [
+          {
+            "id": 0,
+            "lr": "l",
+            "cx": 135,
+            "cy": 250
+          },
+          {
+            "id": 0,
+            "lr": "r",
+            "cx": 265,
+            "cy": 250
+          }
+        ],
+        "eyes": [
+          {
+            "id": 1,
+            "lr": "l",
+            "cx": 135,
+            "cy": 280,
+            "angle": 6.7
+          },
+          {
+            "id": 1,
+            "lr": "r",
+            "cx": 265,
+            "cy": 280,
+            "angle": 6.7
+          }
+        ],
+        "nose": {
+          "id": 0,
+          "lr": "l",
+          "cx": 200,
+          "cy": 330,
+          "size": 0.8959674457367528,
+          "flip": false
+        },
+        "mouth": {
+          "id": 0,
+          "cx": 200,
+          "cy": 400
+        },
+        "hair": {
+          "id": 1
+        },
+        "fatness": 0.16,
+        "color": "#74453d"
+      },
+      "ratings": [
+        {
+          "hgt": 65,
+          "stre": 65,
+          "spd": 55,
+          "jmp": 65,
+          "endu": 65,
+          "ins": 50,
+          "dnk": 50,
+          "ft": 50,
+          "fg": 40,
+          "tp": 40,
+          "blk": 50,
+          "stl": 40,
+          "drb": 40,
+          "pss": 40,
+          "reb": 50,
+          "season": 2016,
+          "ovr": 53,
+          "pot": 65,
+          "fuzz": -3.471203487020107,
+          "skills": [],
+          "pos": "GF"
+        }
+      ],
+      "born": {
+        "year": 1987,
+        "loc": "USA"
+      },
+      "contract": {
+        "amount": 8000,
+        "exp": 2018
+      },
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "tid": 4,
+      "statsTids": [
+        4
+      ],
+      "rosterOrder": 666,
+      "weight": 205,
+      "hgt": 74,
+      "firstName": "Horace",
+      "lastName": "Slughorn",
+      "college": "",
+      "imgURL": "",
+      "awards": [],
+      "freeAgentMood": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "yearsFreeAgent": 0,
+      "retiredYear": null,
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2015,
+        "teamName": null,
+        "teamRegion": null,
+        "pot": 50,
+        "ovr": 57,
+        "skills": []
+      },
+      "ptModifier": 1,
+      "hof": false,
+      "watch": false,
+      "gamesUntilTradable": 0,
+      "value": 51.675,
+      "valueNoPot": 53,
+      "valueFuzz": 48.75,
+      "valueNoPotFuzz": 50,
+      "valueWithContract": 51.675,
+      "salaries": [],
+      "pid": 723,
+      "stats": [
+        {
+          "pid": 723,
+          "season": 2016,
+          "tid": 4,
+          "playoffs": false,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "per": 0,
+          "ewa": 0,
+          "yearsWithTeam": 1,
+          "psid": 540
+        }
+      ]
     }
   ],
   "releasedPlayers": [
@@ -138987,6 +141245,60 @@
         "exp": 2017
       },
       "rid": 34
+    },
+    {
+      "pid": 103,
+      "tid": 4,
+      "contract": {
+        "amount": 750,
+        "exp": 2016
+      },
+      "rid": 35
+    },
+    {
+      "pid": 106,
+      "tid": 4,
+      "contract": {
+        "amount": 750,
+        "exp": 2017
+      },
+      "rid": 36
+    },
+    {
+      "pid": 104,
+      "tid": 4,
+      "contract": {
+        "amount": 750,
+        "exp": 2016
+      },
+      "rid": 37
+    },
+    {
+      "pid": 100,
+      "tid": 4,
+      "contract": {
+        "amount": 750,
+        "exp": 2017
+      },
+      "rid": 38
+    },
+    {
+      "pid": 105,
+      "tid": 4,
+      "contract": {
+        "amount": 750,
+        "exp": 2017
+      },
+      "rid": 39
+    },
+    {
+      "pid": 107,
+      "tid": 4,
+      "contract": {
+        "amount": 750,
+        "exp": 2017
+      },
+      "rid": 40
     }
   ],
   "awards": [],
